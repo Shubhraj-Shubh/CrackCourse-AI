@@ -56,7 +56,7 @@ CrackCourse AI is a modern, AI-powered online learning platform built with [Next
 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Clerk](https://clerk.com/) (Authentication)
+- [Clerk](https://clerk.com/) (Authentication & Subscription)
 - [ShadCN UI](https://ui.shadcn.com/)
 
 ---
