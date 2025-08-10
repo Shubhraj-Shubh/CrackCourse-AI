@@ -19,32 +19,32 @@ CrackCourse AI is a modern, AI-powered online learning platform built with [Next
 ## 📸 Screenshots
 
 ### Landing Page
-<img width="741" height="701" alt="Screenshot 2025-08-10 202352" src="https://github.com/user-attachments/assets/bc9d2fe4-594a-47ea-a38a-98cd3268ac30" />
+<img width="741" height="701" alt="Screenshot 2025-08-10 202352" src="https://github.com/user-attachments/assets/0752210e-0ac7-46e5-bb8f-ad7a5fa9fe65" />
 
 
 ### Dashboard & Sidebar
-<img width="1916" height="908" alt="Screenshot 2025-08-10 202423" src="https://github.com/user-attachments/assets/6613f8dc-63f6-479b-bd18-8e18243680c3" />
-<img width="1893" height="900" alt="Screenshot 2025-08-10 202456" src="https://github.com/user-attachments/assets/e09c87a6-b29d-4dc0-bf8b-0bf349b83fdb" />
+<img width="1916" height="908" alt="Screenshot 2025-08-10 202423" src="https://github.com/user-attachments/assets/94964326-de40-4d4d-a4c4-84dcb76abe6c" />
+<img width="1893" height="900" alt="Screenshot 2025-08-10 202456" src="https://github.com/user-attachments/assets/d17432ff-afc7-40da-ad4d-6913cc19a53c" />
 
 
 
 ### Course Creation Form
-<img width="1122" height="778" alt="Screenshot 2025-08-10 202505" src="https://github.com/user-attachments/assets/fcad5d2f-51ff-496c-b0e7-2b23a947e531" />
+<img width="1122" height="778" alt="Screenshot 2025-08-10 202505" src="https://github.com/user-attachments/assets/1c7ad085-2b88-4ca7-bfe4-1ae6641153a2" />
 
 
 
 ### Course Details & Chapters
-<img width="1897" height="909" alt="Screenshot 2025-08-10 202539" src="https://github.com/user-attachments/assets/e82fdae2-8cd5-4245-bca2-0715526ba21a" />
+<img width="1897" height="909" alt="Screenshot 2025-08-10 202539" src="https://github.com/user-attachments/assets/aa8fa05b-66a2-4b07-a79a-240367bca9a5" />
 
 
 
 ### Explore Courses
-<img width="1919" height="878" alt="Screenshot 2025-08-10 224854" src="https://github.com/user-attachments/assets/87b3972b-f789-40b4-93b2-effe466b72f4" />
+<img width="1919" height="878" alt="Screenshot 2025-08-10 224854" src="https://github.com/user-attachments/assets/492ca2eb-5f16-4324-b504-3ece9398da64" />
 
 
 
 ### Billing Page
-<img width="1916" height="912" alt="Screenshot 2025-08-10 202610" src="https://github.com/user-attachments/assets/0c0612d9-b25c-46d0-9f44-55caaf6319c4" />
+<img width="1916" height="912" alt="Screenshot 2025-08-10 202610" src="https://github.com/user-attachments/assets/e035ddb4-1179-40cc-a004-ab3b939a6f71" />
 
 
 
@@ -84,5 +84,5 @@ CrackCourse AI is a modern, AI-powered online learning platform built with [Next
 
 ## 📦 Deployment
 
-Deployed  on [Vercel](https://vercel.com/) 
+Deployed  on [Vercel](https://vercel.com/)     Link https://crack-course-ai.vercel.app/
 ---
