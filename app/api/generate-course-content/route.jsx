@@ -1,9 +1,10 @@
 import {NextResponse} from "next/server";
-import {ai}  from "../generate-course-layout/route";
 import axios from "axios";
 import { coursesTable } from "@/config/schema";
 import { db } from "@/config/db";
 import { eq } from "drizzle-orm";
+import { ai } from "@/lib/ai";
+
 
 
 const PROMPT=`Depends on Chapter name and Topic Generate content for each topic in HTML and give response in JSON format.

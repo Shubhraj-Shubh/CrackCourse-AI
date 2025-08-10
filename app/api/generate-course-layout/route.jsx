@@ -6,6 +6,10 @@ import { NextResponse } from "next/server";
 import { db } from "@/config/db";
 import { coursesTable } from "@/config/schema";
 import axios from "axios"
+import { ai } from "@/lib/ai";
+
+
+
 
 
 const PROMPT=`Generate Learning Course depends on following details. In which make sure to add Course Name, Description, Chapter Name, Image Prompt (Create a modern, flat-style 2D digital illustration representing user Topic. Include UI/UX elements such as mockup screens, text blocks, icons, buttons, and creative workspace tools. Add symbolic elements related to user Course, like sticky notes, design components, and visual aids. Use a vibrant color palette (blues, purples, oranges) with a clean, professional look. The illustration should feel creative, tech-savvy, and educational, ideal for visualizing concepts in user Course) for Course Banner in 3D format, Topic under each chapters, Duration for each chapters etc, in JSON format only
@@ -37,9 +41,7 @@ Schema:
   
 User Input: ` 
 
-  export const ai = new GoogleGenAI({
-    apiKey: process.env.GEMINI_API_KEY,
-  });
+ 
   
 export async function POST(req){
     const {courseId, ...formData }= await req.json();
