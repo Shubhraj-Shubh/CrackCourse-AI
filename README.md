@@ -50,26 +50,7 @@ CrackCourse AI is a modern, AI-powered online learning platform built with [Next
 
 ---
 
-## 🚀 Getting Started
 
-1. *Install dependencies:*
-   bash
-   npm install
-   # or
-   yarn install
-   
-
-2. *Run the development server:*
-   bash
-   npm run dev
-   # or
-   yarn dev
-   
-
-3. *Open your browser:*  
-   Visit [http://localhost:3000](http://localhost:3000)
-
----
 
 ## 🛠 Tech Stack
 
