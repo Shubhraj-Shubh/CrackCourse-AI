@@ -1,36 +1,88 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CrackCourse AI
 
-## Getting Started
+CrackCourse AI is a modern, AI-powered online learning platform built with [Next.js](https://nextjs.org). It enables users to generate personalized courses, track progress, and explore curated content with a beautiful, responsive UI.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- *AI Course Generation:* Instantly create custom courses tailored to your needs.
+- *Smart Video Recommendations:* Get relevant YouTube video suggestions for every topic.
+- *Progress Tracking:* Monitor your learning journey and celebrate milestones.
+- *Modern UI:* Clean, glassmorphic design with gradients and animations.
+- *Responsive Sidebar:* Easy navigation with a branded sidebar and logo.
+- *Course Management:* Create, explore, and enroll in courses with ease.
+- *Billing & Plans:* Simple plan selection and management.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📸 Screenshots
 
-## Learn More
+### Landing Page
+<img width="741" height="701" alt="Screenshot 2025-08-10 202352" src="https://github.com/user-attachments/assets/bc9d2fe4-594a-47ea-a38a-98cd3268ac30" />
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Dashboard & Sidebar
+<img width="1916" height="908" alt="Screenshot 2025-08-10 202423" src="https://github.com/user-attachments/assets/6613f8dc-63f6-479b-bd18-8e18243680c3" />
+<img width="1893" height="900" alt="Screenshot 2025-08-10 202456" src="https://github.com/user-attachments/assets/e09c87a6-b29d-4dc0-bf8b-0bf349b83fdb" />
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Course Creation Form
+<img width="1122" height="778" alt="Screenshot 2025-08-10 202505" src="https://github.com/user-attachments/assets/fcad5d2f-51ff-496c-b0e7-2b23a947e531" />
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+### Course Details & Chapters
+<img width="1897" height="909" alt="Screenshot 2025-08-10 202539" src="https://github.com/user-attachments/assets/e82fdae2-8cd5-4245-bca2-0715526ba21a" />
+
+
+
+### Explore Courses
+<img width="1919" height="878" alt="Screenshot 2025-08-10 224854" src="https://github.com/user-attachments/assets/87b3972b-f789-40b4-93b2-effe466b72f4" />
+
+
+
+### Billing Page
+<img width="1916" height="912" alt="Screenshot 2025-08-10 202610" src="https://github.com/user-attachments/assets/0c0612d9-b25c-46d0-9f44-55caaf6319c4" />
+
+
+
+---
+
+## 🚀 Getting Started
+
+1. *Install dependencies:*
+   bash
+   npm install
+   # or
+   yarn install
+   
+
+2. *Run the development server:*
+   bash
+   npm run dev
+   # or
+   yarn dev
+   
+
+3. *Open your browser:*  
+   Visit [http://localhost:3000](http://localhost:3000)
+
+---
+
+## 🛠 Tech Stack
+
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Clerk](https://clerk.com/) (Authentication)
+- [ShadCN UI](https://ui.shadcn.com/)
+
+---
+
+
+
+## 📦 Deployment
+
+Deployed  on [Vercel](https://vercel.com/) 
+---
